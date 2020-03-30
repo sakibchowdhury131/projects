@@ -1,2 +1,3 @@
 # projects
-Projects Detailed Descriptions
+Follow the instructons provided in the folders
+
